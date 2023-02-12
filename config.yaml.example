@@ -1,0 +1,7 @@
+email: ""
+password: ""
+is_google_login: false
+openai_api_key: ""
+model: "text-davinci-003"
+chat_private_tigger_keyword: ""
+openai_proxy: ""
